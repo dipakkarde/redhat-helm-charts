@@ -1,7 +1,11 @@
-# Red Hat Helm Charts
-This repository contains the charts are populated out-of-the-box in the OpenShift Developer Catalog
+# Red Hat Helm 图表
+此存储库包含在 OpenShift 开发人员目录中开箱即用的图表
 
-The repository has been configured to serve the static helm index and chart files
+存储库已配置为提供静态 helm 索引和图表文件
+# Red Hat Helm túbiǎo
+cǐ cúnchú kù bāohán zài OpenShift kāifā rényuán mùlù zhōng kāi xiāng jí yòng de túbiǎo
+
+cúnchú kù yǐ pèizhì wèi tígōng jìngtài helm suǒyǐn hé túbiǎo wénjiàn
 
 ## Usage
 
